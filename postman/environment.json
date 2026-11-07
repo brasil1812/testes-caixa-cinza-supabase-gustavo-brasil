@@ -1,0 +1,33 @@
+{
+  "id": "1a2b3c4d-5e6f-4789-8012-3456789abcde",
+  "name": "Supabase - Gustavo Brasil",
+  "values": [
+    {
+      "key": "base_url",
+      "value": "XXXXX",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "api_key",
+      "value": "XXXXX",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "email",
+      "value": "XXXXX",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "password",
+      "value": "XXXXX",
+      "type": "secret",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2026-11-06T21:39:00.000Z",
+  "_postman_exported_using": "Postman/11.0.0"
+}
